@@ -279,11 +279,7 @@
   <text class="pilltxt" x="791" y="416" fill="#A5F3FC" text-anchor="middle">Figma</text>
 </g>
 
-<g class="pill" opacity="0">
-  <animate attributeName="opacity" begin="5.9s" dur="0.5s" to="1" fill="freeze"/>
-  <rect class="pillbg" x="840" y="396" width="82" height="30" rx="15" fill="rgba(16,185,129,0.15)" stroke="#10B981" stroke-width="1" filter="url(#pillGlow)"/>
-  <text class="pilltxt" x="881" y="416" fill="#6EE7B7" text-anchor="middle">Canva</text>
-</g>
+
     <!-- divider -->
     <line x1="502" y1="452" x2="1120" y2="452" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
 
