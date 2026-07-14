@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: From NCC leadership to AI innovation—I'm passionate about learning, leading, and creating impactful technology.
 -->
 
+<p align="center">
+  <img src="./dark.svg" width="100%" />
+</p>
