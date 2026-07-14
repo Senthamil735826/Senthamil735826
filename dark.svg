@@ -163,7 +163,7 @@
     <circle cx="494" cy="43" r="5.5" fill="#FF5F56"/>
     <circle cx="512" cy="43" r="5.5" fill="#FFBD2E"/>
     <circle cx="530" cy="43" r="5.5" fill="#27C93F"/>
-    <text x="1135" y="47" font-size="11.5" fill="#94A3B8" text-anchor="end" font-family="Menlo,monospace">~/senthamil — zsh</text>
+    <text x="1135" y="47" font-size="11.5" fill="#94A3B8" text-anchor="end" font-family="Menlo,monospace">~/github-profile — zsh</text>
 
     <!-- greeting -->
     <text x="502" y="102" font-size="26" font-weight="600" fill="#F8FAFC" font-family="Menlo,monospace" opacity="0">
@@ -319,7 +319,10 @@
         <path d="M702 500h16 M710 492c2.2 2.2 3.4 5 3.4 8s-1.2 5.8-3.4 8 M710 492c-2.2 2.2-3.4 5-3.4 8s1.2 5.8 3.4 8" fill="none" stroke="#F8FAFC" stroke-width="1.2"/>
       </g>
 
-     <text x="617" y="535" font-family="Menlo,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" opacity="0.85">GitHub · LinkedIn · Twitter · Portfolio</text>
+     <text x="524" y="540" font-family="Menlo,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" opacity="0.85">GitHub</text>
+     <text x="586" y="540" font-family="Menlo,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" opacity="0.85">LinkedIn</text>
+     <text x="648" y="540" font-family="Menlo,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" opacity="0.85">Twitter</text>
+     <text x="710" y="540" font-family="Menlo,monospace" font-size="11" fill="#94A3B8" text-anchor="middle" opacity="0.85">Portfolio</text>
     </g>
   </g>
 </g>
