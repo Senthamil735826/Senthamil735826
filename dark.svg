@@ -197,18 +197,22 @@
     </rect>
 
     <!-- info lines sequential reveal -->
-    <g font-family="Menlo,monospace" font-size="14" fill="#F8FAFC">
-      <text x="502" y="188" opacity="0"><tspan fill="#7C3AED">📍 </tspan><tspan fill="#94A3B8">Location  </tspan> Chennai, Tamil Nadu, India
-        <animate attributeName="opacity" begin="2.0s" dur="0.7s" to="1" fill="freeze"/></text>
-      <text x="502" y="216" opacity="0"><tspan fill="#22D3EE">🎓 </tspan><tspan fill="#94A3B8">Education </tspan> B.E. Computer Science
-        <animate attributeName="opacity" begin="2.5s" dur="0.7s" to="1" fill="freeze"/></text>
-      <text x="502" y="244" opacity="0"><tspan fill="#10B981">🎯 </tspan><tspan fill="#94A3B8">Focus     </tspan> Scalable Web &amp; AI-driven Products
-        <animate attributeName="opacity" begin="3.0s" dur="0.7s" to="1" fill="freeze"/></text>
-      <text x="502" y="272" opacity="0"><tspan fill="#7C3AED">🌐 </tspan><tspan fill="#94A3B8">Portfolio </tspan> senthamilselvan.dev
-        <animate attributeName="opacity" begin="3.5s" dur="0.7s" to="1" fill="freeze"/></text>
-      <text x="502" y="300" opacity="0"><tspan fill="#22D3EE">✉️ </tspan><tspan fill="#94A3B8">Email     </tspan> hello@senthamilselvan.dev
-        <animate attributeName="opacity" begin="4.0s" dur="0.7s" to="1" fill="freeze"/></text>
-    </g>
+<g font-family="Menlo,monospace" font-size="14" fill="#F8FAFC">
+  <text x="502" y="188" opacity="0"><tspan fill="#7C3AED">📍 </tspan><tspan fill="#94A3B8">Location  </tspan> Chennai, India
+    <animate attributeName="opacity" begin="2.0s" dur="0.7s" to="1" fill="freeze"/></text>
+
+  <text x="502" y="216" opacity="0"><tspan fill="#22D3EE">🎓 </tspan><tspan fill="#94A3B8">Education </tspan> B.Tech AI &amp; DS
+    <animate attributeName="opacity" begin="2.5s" dur="0.7s" to="1" fill="freeze"/></text>
+
+  <text x="502" y="244" opacity="0"><tspan fill="#10B981">🎯 </tspan><tspan fill="#94A3B8">Focus     </tspan> Full Stack &amp; AI
+    <animate attributeName="opacity" begin="3.0s" dur="0.7s" to="1" fill="freeze"/></text>
+
+  <text x="502" y="272" opacity="0"><tspan fill="#7C3AED">🌐 </tspan><tspan fill="#94A3B8">Portfolio </tspan> Coming Soon
+    <animate attributeName="opacity" begin="3.5s" dur="0.7s" to="1" fill="freeze"/></text>
+
+  <text x="502" y="300" opacity="0"><tspan fill="#22D3EE">✉️ </tspan><tspan fill="#94A3B8">Email     </tspan> your-email@example.com
+    <animate attributeName="opacity" begin="4.0s" dur="0.7s" to="1" fill="freeze"/></text>
+</g>
 
     <!-- skills header -->
     <text x="502" y="340" font-size="13" fill="#94A3B8" font-family="Menlo,monospace" opacity="0">
