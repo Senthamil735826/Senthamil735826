@@ -202,7 +202,7 @@
     <animate attributeName="opacity" begin="2.0s" dur="0.7s" to="1" fill="freeze"/></text>
 
   <text x="502" y="216" opacity="0"><tspan fill="#22D3EE">🎓 </tspan><tspan fill="#94A3B8">Education </tspan> B.Tech AI &amp; DS
-    <animate attributeName="opacity" begin="2.5s" dur="0.7s" to="1" fill="freeze"/></text>
+    <animate attributeName="opacity" begin="2.5s" dur="0.7s" to="1" fill="freeze"/></text> 
 
   <text x="502" y="244" opacity="0"><tspan fill="#10B981">🎯 </tspan><tspan fill="#94A3B8">Focus     </tspan> Full Stack &amp; AI
     <animate attributeName="opacity" begin="3.0s" dur="0.7s" to="1" fill="freeze"/></text>
