@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤝 Open to collaborating on AI, Open Source, and Frontend projects.
 - 💡 Currently improving my skills in System Design and Scalable Software Development.
 - 💬 Ask me about Python, Java, JavaScript, React, AI/ML, Data Science, and Web Development.
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: Senthamil735826@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: From NCC leadership to AI innovation—I'm passionate about learning, leading, and creating impactful technology.
 -->
