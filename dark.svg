@@ -208,7 +208,7 @@
   <text x="502" y="272" opacity="0"><tspan fill="#7C3AED">🌐 </tspan><tspan fill="#94A3B8">Portfolio </tspan> Coming Soon
     <animate attributeName="opacity" begin="3.5s" dur="0.7s" to="1" fill="freeze"/></text>
 
-  <text x="502" y="300" opacity="0"><tspan fill="#22D3EE">✉️ </tspan><tspan fill="#94A3B8">Email     </tspan> your-email@example.com
+  <text x="502" y="300" opacity="0"><tspan fill="#22D3EE">✉️ </tspan><tspan fill="#94A3B8">Email     </tspan> Senthamil735826@gmil.com
     <animate attributeName="opacity" begin="4.0s" dur="0.7s" to="1" fill="freeze"/></text>
 </g>
 
