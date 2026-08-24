@@ -88,33 +88,96 @@
 <rect x="2" y="2" width="1176" height="606" rx="24" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" opacity="0.55"/>
 
 <!-- ============ LEFT PANEL ============ -->
-<g>
-  <rect x="24" y="24" width="424" height="562" rx="20" fill="#0F172A" fill-opacity="0.55" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-  <rect x="24" y="24" width="424" height="562" rx="20" fill="none" stroke="url(#accentGrad)" stroke-width="1" opacity="0.5">
-    <animate attributeName="opacity" values="0.25;0.6;0.25" dur="5s" repeatCount="indefinite"/>
+<g clip-path="url(#leftClip)">
+
+  <!-- floating S logo -->
+  <g opacity="0">
+    <image
+      href="Icon.png"
+      x="86"
+      y="48"
+      width="300"
+      height="300"
+      preserveAspectRatio="xMidYMid meet"
+    />
+
+    <animate
+      attributeName="opacity"
+      begin="0.2s"
+      dur="1s"
+      from="0"
+      to="1"
+      fill="freeze"
+    />
+  </g>
+
+  <!-- scanline -->
+  <rect x="24" y="0" width="424" height="3"
+        fill="#22D3EE" opacity="0.25">
+    <animate
+      attributeName="y"
+      values="24;586;24"
+      dur="4s"
+      repeatCount="indefinite"/>
   </rect>
-  <!-- glass reflection -->
-  <path d="M28 30 L200 30 L60 586 L28 586 Z" fill="#ffffff" opacity="0.03" clip-path="url(#leftClip)"/>
 
-  <g clip-path="url(#leftClip)">
-  <!-- floating ascii block -->
-<g opacity="0">
-  <image
-    href="Icon.png"
-    x="10"
-    y="10"
-    width="300"
-    height="300"
-    preserveAspectRatio="xMidYMid meet"
-  />
+  <!-- status -->
+  <text x="60" y="380"
+        font-size="13"
+        fill="#94A3B8"
+        font-family="Menlo,monospace"
+        opacity="0">
+    &gt; system.status : online_
+    <animate
+      attributeName="opacity"
+      begin="5s"
+      dur="1s"
+      to="1"
+      fill="freeze"/>
+  </text>
 
-  <animate
-    attributeName="opacity"
-    begin="0.2s"
-    dur="1s"
-    to="1"
-    fill="freeze"
-  />
+  <text x="60" y="404"
+        font-size="12.5"
+        fill="url(#asciiGrad)"
+        font-family="Menlo,monospace"
+        opacity="0">
+    &gt; render(profile_logo)
+    <animate
+      attributeName="opacity"
+      begin="5.4s"
+      dur="1s"
+      to="1"
+      fill="freeze"/>
+  </text>
+
+  <!-- decorative footer -->
+  <text x="60" y="540"
+        font-size="26"
+        font-weight="700"
+        fill="url(#accentGrad)"
+        opacity="0">
+    &lt;/ dev&gt;
+    <animate
+      attributeName="opacity"
+      begin="6s"
+      dur="1.2s"
+      to="1"
+      fill="freeze"/>
+  </text>
+
+  <text x="60" y="562"
+        font-size="12"
+        fill="#94A3B8"
+        opacity="0">
+    building things, one commit at a time
+    <animate
+      attributeName="opacity"
+      begin="6.4s"
+      dur="1.2s"
+      to="1"
+      fill="freeze"/>
+  </text>
+
 </g>
 
   <!-- scanline -->
