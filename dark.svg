@@ -125,7 +125,7 @@
 
     <!-- top label -->
     <text x="236" y="66" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#5ee7ff" letter-spacing="3" opacity="0">
-      STARK INDUSTRIES // MARK-I
+     SENTHAMIL's // GITHUB
       <animate attributeName="opacity" begin="0.2s" dur="0.8s" to="0.8" fill="freeze"/>
     </text>
 
@@ -222,7 +222,8 @@
 
     <!-- boot text (typewriter) -->
     <g clip-path="url(#typeClip)">
-      <text x="146" y="340" font-family="Courier New, monospace" font-size="14" fill="#22D3EE" textLength="190" lengthAdjust="spacingAndGlyphs" filter="url(#glow)">&gt; IRON_MAN // ONLINE</text>
+      <text x="146" y="340" font-family="Courier New, monospace" font-size="14" fill="#22D3EE" textLength="190"
+        lengthAdjust="spacingAndGlyphs" filter="url(#glow)">&gt; SENTHAMIL SELVAN// ONLINE</text>
     </g>
     <!-- moving cursor -->
     <rect x="146" y="328" width="8" height="14" fill="#22D3EE" opacity="0">
