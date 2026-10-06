@@ -222,7 +222,8 @@
 
     <!-- boot text (typewriter) -->
     <g clip-path="url(#typeClip)">
-      <text x="116" y="510" font-family="Courier New, monospace" font-size="14" fill="#22D3EE" textLength="240" lengthAdjust="spacingAndGlyphs" filter="url(#glow)">&gt; SENTHAMIL SELVAN// ONLINE</text>
+      <text x="116" y="510" font-family="Courier New, monospace" font-size="14" fill="#22D3EE" 
+        textLength="240" lengthAdjust="spacingAndGlyphs" filter="url(#glow)">&gt; SENTHAMIL // ONLINE</text>
     </g>
     <!-- moving cursor -->
     <rect x="116" y="498" width="8" height="14" fill="#22D3EE" opacity="0">
