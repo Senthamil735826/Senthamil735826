@@ -231,6 +231,7 @@
       <set attributeName="opacity" to="1" begin="4s"/>
       <animate attributeName="opacity" begin="5.6s" dur="1s" values="1;0;1" repeatCount="indefinite"/>
     </rect>
+<!-- ============ COMMAND LINE ============ 
 
     <text x="60" y="394" font-size="13" fill="#94A3B8" font-family="Menlo,monospace" opacity="0">
       &gt; system.status : online_
@@ -239,9 +240,9 @@
     <text x="60" y="418" font-size="12.5" fill="url(#asciiGrad)" font-family="Menlo,monospace" opacity="0">
       &gt; arc_reactor.power = 100%
       <animate attributeName="opacity" begin="6.2s" dur="1s" to="1" fill="freeze"/>
-    </text>
+    </text>   -->
 
-    <!-- footer -->
+    <!-- footer 
     <text x="60" y="540" font-size="26" font-weight="700" fill="url(#accentGrad)" opacity="0">
       &lt;/ dev&gt;
       <animate attributeName="opacity" begin="6.6s" dur="1.2s" to="1" fill="freeze"/>
@@ -249,7 +250,7 @@
     <text x="60" y="562" font-size="12" fill="#94A3B8" opacity="0">
       building things, one commit at a time
       <animate attributeName="opacity" begin="7s" dur="1.2s" to="1" fill="freeze"/>
-    </text>
+    </text> -->
   </g>
 </g>
 
